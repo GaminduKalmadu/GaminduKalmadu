@@ -1,6 +1,7 @@
 ### Hi there, I'm Gamidu Kalmadu! 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=F7F7F7&background=000000&center=true&vCenter=true&multiline=true&lines=Software+Engineering+Student;Passionate+about+AI%2C+Cybersecurity%2C+and+Cloud+Computing;Building+Innovative+Tech+Projects!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=F7F7F7&background=000000&center=true&vCenter=true&multiline=true&width=1024&height=100&lines=Software+Engineering+Student;Passionate+about+AI%2C+Cybersecurity%2C+and+Cloud+Computing;Building+Innovative+Tech+Projects!)
+
 
 ---
 
